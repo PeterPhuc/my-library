@@ -1,3 +1,3 @@
 import { Calculate, Person } from "./index.js";
 export let Calc = Calculate();
-let person = Person;
+export let person = Person;

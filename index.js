@@ -30,7 +30,7 @@ export var Calculate = function() {
 export let Person = {
     name: "Tín",
     age: 21,
-    job: 'Front End Dev',
+    job: 'Front End Dev, Tester',
 };
 
 // let calc = Calculate();
